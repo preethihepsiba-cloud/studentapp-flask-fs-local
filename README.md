@@ -40,6 +40,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 5️⃣ Install Dependencies
+
 pip install -r requirements.txt
 
 
@@ -50,6 +51,8 @@ Make sure database is created in Native Mode
 Collection name should match with the name in app.py
 
 7️⃣ Run Locally in Cloud Shell
+
+
 python app.py
 
 You will see:
